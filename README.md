@@ -1,4 +1,4 @@
-# React Static Components
+lear# React Static Components
 
 ## Objectives
 
